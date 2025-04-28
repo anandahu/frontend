@@ -1,0 +1,39 @@
+.sentiment-body {
+    width: 90%;
+    min-height: 100vh;
+    height: auto;
+    background-color: white;
+    margin: 6rem auto auto auto;
+    padding-top: 3rem;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 3rem;
+    align-content: center;
+    text-align: center;
+}
+
+.sentiment-title {
+}
+
+.sentiment-table {
+    width: 75%;
+    height: auto; 
+    margin: 1rem auto 1rem auto;
+    padding: 0 0 0 0;
+    align-content: center;
+}
+.sentiment-type {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    width: 20%;
+    text-align: right;
+    font-size: 1.5em;
+}
+
+.sentiment-def {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    width: 80%;
+    text-align: left;
+    align-content: center;
+}
